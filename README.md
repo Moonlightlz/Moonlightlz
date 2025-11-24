@@ -10,13 +10,13 @@ Moonlightlz</a></h1>
 
 - 🔭 I’m currently a **Systems Engineering** student.
 
-- 🌱 I’m currently learning **[Insert languages/tech here, e.g., Java, Python, Linux]**.
+- 🌱 I’m currently learning **[Java, Linux, TypeScript, Angular]**.
 
 - 🤝 I’m available for collaboration on university and open source projects.
 
-- 💬 Ask me about **[Your interests]**.
+- 💬 Ask me about **[Pending]**.
 
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **[michaelsanchezmaz@gmail.com]**
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
@@ -27,6 +27,6 @@ Moonlightlz</a></h1>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Moonlightlz">
         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         
-        </div>
+        
 
 </p>
