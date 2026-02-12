@@ -10,7 +10,7 @@ Moonlightlz</a></h1>
 
 - 🔭 I’m currently a **Systems Engineering** student.
 
-- 🌱 I’m currently learning **[Java, Linux, TypeScript, Angular]**.
+- 🌱 I’m currently learning **[Java, Linux, TypeScript, Angular, Flask]**.
 
 - 🤝 I’m available for collaboration on university and open source projects.
 
